@@ -1,6 +1,4 @@
-# GOCiS
-
-CSV injection Sanitizer written in Go
+![](img/GOCiS_banner.png)
 
 Sanitize your CSV to avoid [**CSV Injection**](https://www.owasp.org/index.php/CSV_Injection).
 
