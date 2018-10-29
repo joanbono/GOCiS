@@ -1,5 +1,7 @@
 ![](img/GOCiS_banner.png)
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/joanbono/GOCiS)](https://goreportcard.com/report/github.com/joanbono/GOCiS)
+
 Sanitize your CSV to avoid [**CSV Injection**](https://www.owasp.org/index.php/CSV_Injection).
 
 ***
